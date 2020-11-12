@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name_A">Коэффициент А</string>
+    <string name="name_B">Коэффициент B</string>
+    <string name="name_C">Коэффициент C</string>
+    <string name="solve">Найти</string>
+    <string name="not">Нет решений</string>
+</resources>
